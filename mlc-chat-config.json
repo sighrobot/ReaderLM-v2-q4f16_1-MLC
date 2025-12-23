@@ -48,7 +48,7 @@
   "conv_template": {
     "name": "chatml",
     "system_template": "<|im_start|>system\n{system_message}<|im_end|>\n",
-    "system_message": "A conversation between a user and an LLM-based AI assistant. The assistant gives helpful and honest answers.",
+    "system_message": "You are an AI assistant developed by Jina AI.",
     "system_prefix_token_ids": null,
     "add_role_after_system_message": true,
     "roles": {
